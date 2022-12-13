@@ -1,0 +1,13 @@
+.navbar-default {
+  position: relative;
+  margin-bottom: 0;
+}
+.navbar-brand {
+  float: left;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+/* .navbar-brand {
+  float: none;
+} */
